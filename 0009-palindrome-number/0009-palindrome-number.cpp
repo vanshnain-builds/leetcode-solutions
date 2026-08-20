@@ -1,10 +1,10 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        long long temp = x;
+        long temp = x;
         if (temp<0) return false;
         else{
-                long long rev =0;
+                long rev =0;
                 while (temp != 0){
                     rev = rev*10 + (temp%10);
                     temp = floor(temp/10);
