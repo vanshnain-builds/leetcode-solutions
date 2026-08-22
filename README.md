@@ -40,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
