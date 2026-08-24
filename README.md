@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
