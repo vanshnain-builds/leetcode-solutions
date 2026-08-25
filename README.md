@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -64,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanshnain-builds/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
